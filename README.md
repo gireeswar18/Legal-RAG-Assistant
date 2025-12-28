@@ -23,6 +23,10 @@ A Retrieval-Augmented Generation (RAG) based legal assistant that answers questi
 4. Retrieve relevant chunks
 5. Generate grounded answer
 
+## Demo video
+Watch it in High Quality
+
+https://youtu.be/qp_2Olw2Y1M
 
 ## Run Locally
 
