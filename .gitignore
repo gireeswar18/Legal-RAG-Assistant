@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Ignore all generated / data files
+data/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
